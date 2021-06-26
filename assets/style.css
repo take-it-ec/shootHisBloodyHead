@@ -45,17 +45,21 @@ body,html{
     transform:translateX(-50%);
 height:50px;
 width:50px;
-    background:url(https://media.istockphoto.com/vectors/rocket-launch-vector-illustration-isolated-on-white-vector-id876037616?k=6&m=876037616&s=612x612&w=0&h=souIgzQ2Yj43H1cffpAI4nwa3KUvseD7am6ovPsao8c=);
+background:url(./rocket.png);
     background-repeat:no-repeat;
     background-size:contain;
+    background-position:center;
 }
 
 .head{
     position:absolute;
     top:0;
-    height:40px;
-    width:40px;
-    background:url(https://media.istockphoto.com/vectors/rocket-launch-vector-illustration-isolated-on-white-vector-id876037616?k=6&m=876037616&s=612x612&w=0&h=souIgzQ2Yj43H1cffpAI4nwa3KUvseD7am6ovPsao8c=);
+    height:100px;
+    width:100px;
+    background:url(./blody.png);
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:center;
     
 
 }

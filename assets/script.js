@@ -47,13 +47,12 @@ var bloodyAdersh = setInterval(() => {
 
     var heads = document.createElement('div');
     heads.classList.add("head")
-    // var headLeft = parseInt(window.getComputedStyle(heads).getPropertyValue("left"))
 
     heads.style.left = Math.floor(Math.random() * 460) + "px";
     board.appendChild(heads)
 
 
-}, 1500);
+}, 1800);
 
 
 
